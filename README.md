@@ -6,7 +6,7 @@
 
 🚀 Seeking internship opportunities and practical experience in technology.
 
-📍 São Paulo, Brazil
+📍 Carapicuíba, São Paulo, Brazil
 
 ---
 
