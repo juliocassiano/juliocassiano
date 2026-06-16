@@ -6,36 +6,58 @@
 
 🚀 Seeking internship opportunities and practical experience in technology.
 
-## About Me
-
-I'm a Computer Science student passionate about technology and continuous learning.
-
-Currently, I'm focused on:
-
-- Learning C programming
-- Improving problem-solving skills
-- Building projects to strengthen my portfolio
-- Developing a solid foundation in software development
-
-## Technologies & Tools
-
-- C
-- Git
-- GitHub
-
-## Goals
-
-- Gain professional experience through internships
-- Build meaningful projects
-- Expand my knowledge of software development
-- Continue growing as a developer
-
-## Contact
-
-📧 Your email here
-
-💼 LinkedIn: Your LinkedIn profile here
+📍 São Paulo, Brazil
 
 ---
 
-"Every expert was once a beginner."
+## About Me
+
+I'm a Computer Science student passionate about technology, programming, and continuous learning.
+
+Currently, I'm focused on:
+
+* Learning C programming
+* Improving problem-solving skills
+* Developing programming logic
+* Building projects to strengthen my portfolio
+* Expanding my knowledge of software development
+
+---
+
+## Technologies & Tools
+
+* C
+* Git
+* GitHub
+* Visual Studio Code
+
+---
+
+## Current Goals
+
+* Gain professional experience through an internship
+* Build meaningful and practical projects
+* Improve my programming skills
+* Learn new technologies and development tools
+* Grow as a software developer
+
+---
+
+## Currently Learning
+
+* C Programming
+* Data Structures
+* Algorithms
+* Software Development Fundamentals
+
+---
+
+## Contact
+
+📧 Email: [juliocassiano1337@gmail.com](mailto:juliocassiano1337@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/julio-cesar-cassiano-souto-9a164b212](http://www.linkedin.com/in/julio-cesar-cassiano-souto-9a164b212)
+
+---
+
+> "Every expert was once a beginner."
